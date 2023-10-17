@@ -1,5 +1,5 @@
 body {
-    background-color: #f4f4f4;
+    background-color: #C4D300;
     margin-top: 50px;
     font-family: 'Lato';
 	
@@ -37,4 +37,10 @@ body {
 
 button:focus {
     border: 1px solid #333;
+}
+h1 {
+	text-align: center;
+}
+img{
+	width: 100%;
 }
